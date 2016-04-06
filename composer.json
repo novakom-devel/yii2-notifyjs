@@ -1,13 +1,13 @@
 {
-    "name": "huijiewei/yii2-notifyjs",
+    "name": "novakom/yii2-notifyjs",
     "description": "NotifyJs assets For Yii 2",
     "keywords": ["yii2", "notifyjs"],
     "license": "GPLv3",
     "type": "yii2-extension",
     "authors": [
         {
-            "name": "Huijie Wei",
-            "email": "huijiewei@outlook.com"
+            "name": "Novakom Developers team",
+            "email": "novakom.devel@gmail.com"
         }
     ],
     "require": {
