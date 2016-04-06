@@ -7,7 +7,13 @@
     "authors": [
         {
             "name": "Novakom Developers team",
-            "email": "novakom.devel@gmail.com"
+            "email": "novakom.devel@gmail.com",
+            "role": "Developer"
+        },
+        {
+            "name": "Huijie Wei",
+ -          "email": "huijiewei@outlook.com",
+            "role": "Developer"
         }
     ],
     "require": {
