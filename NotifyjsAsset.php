@@ -6,13 +6,13 @@
  * Time: 23:35
  */
 
-namespace huijiewei\notifyjs;
+namespace novakom\notifyjs;
 
 use yii\web\AssetBundle;
 
 class NotifyjsAsset extends AssetBundle
 {
-    public $sourcePath = '@huijiewei/notifyjs/assets';
+    public $sourcePath = '@novakom/notifyjs/assets';
 
     public $css = [
         'css/notifyjs.css',
