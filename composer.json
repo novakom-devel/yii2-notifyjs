@@ -1,5 +1,5 @@
 {
-    "name": "novakom-devel/yii2-notifyjs",
+    "name": "novakom/yii2-notifyjs",
     "description": "NotifyJs assets For Yii 2",
     "keywords": ["yii2", "notifyjs"],
     "license": "GPLv3",
@@ -21,7 +21,7 @@
     },
     "autoload": {
         "psr-4": {
-            "huijiewei\\notifyjs\\": ""
+            "novakom\\notifyjs\\": ""
         }
     }
 }
