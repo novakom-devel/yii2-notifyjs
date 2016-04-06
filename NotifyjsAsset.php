@@ -18,6 +18,10 @@ class NotifyjsAsset extends AssetBundle
         'css/notifyjs.css',
     ];
 
+    public $depends = [
+        'yii\web\JqueryAsset',
+    ];
+
     public $js = [
         'js/notifyjs.js',
     ];
